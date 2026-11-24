@@ -1,0 +1,7 @@
+venv/
+data/
+dataset/
+__pycache__/
+*.zip
+cs-training.csv
+debug_input.png
